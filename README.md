@@ -10,17 +10,21 @@ The current player's score increases with each dice roll, but if they roll a 1, 
 Players can choose to 'Hold', which means their current score is added to their total score, and it becomes the next player's turn.
 The first player to reach the set winning score wins the game.
 
-##Features
+## Features
+
 Multiplayer: Play with your friends and family.
 Interactive UI: Enjoy a visually appealing game interface.
 Dice Rolling: Roll the dice and see your points accumulate.
 Hold Option: Safely store your points and pass the dice to the next player.
 Winner Declaration: The first player to reach the winning score is declared the winner.
-##Project Structure
+
+## Project Structure
+
 index.html: The main HTML file that displays the game interface.
 style.css: The CSS file that styles the game interface.
 script.js: The JavaScript file that contains the game logic and functionality.
 
-##Acknowledgments
+## Acknowledgments
+
 This game was inspired by traditional dice games and educational purposes.
 The project structure and some code snippets may have been adapted from online tutorials and resources
