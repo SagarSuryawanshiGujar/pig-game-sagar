@@ -3,7 +3,8 @@
 ![Alt text](./image.png)
 Welcome to the Multiplayer Pig Game repository! This is a simple and entertaining game built using JavaScript, HTML, and CSS. The Pig Game, also known as "Pass the Pigs," challenges players to take turns rolling dice and accumulating points while avoiding certain risks.
 
-##Game Rules
+## Game Rules
+
 The game is played with 2 or more players.
 Each player takes turns to roll a dice as many times as they want.
 The current player's score increases with each dice roll, but if they roll a 1, their current score resets to 0 and it becomes the next player's turn.
